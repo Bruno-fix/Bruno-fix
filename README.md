@@ -1,6 +1,6 @@
 # Hi, I'm Bruno Queiroz
 
- Software Engineering Student
+Software Engineering student focused on backend development, software architecture, and building scalable applications.
 
 ## Technologies
 
@@ -8,6 +8,8 @@
 * Spring Boot
 * Python
 * SQL
+* Git
+* GitHub
 
 ## Currently Learning
 
