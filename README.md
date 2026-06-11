@@ -1,4 +1,4 @@
-# Hi, I'm Bruno Queiroz 👋
+# Hi, I'm Bruno Queiroz
 
  Software Engineering Student
 
