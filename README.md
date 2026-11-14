@@ -10,6 +10,9 @@ Estudante de Engenharia de Software com foco em desenvolvimento backend, arquite
 * SQL
 * Git
 * GitHub
+* Typescript
+* react
+* nextjs
 
 ## Atualmente Estudando
 
