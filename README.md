@@ -1,8 +1,8 @@
-# Hi, I'm Bruno Queiroz
+# Olá, eu sou Bruno Queiroz
 
-Software Engineering student focused on backend development, software architecture, and building scalable applications.
+Estudante de Engenharia de Software com foco em desenvolvimento backend, arquitetura de software e criação de aplicações escaláveis.
 
-## Technologies
+## Tecnologias
 
 * Java
 * Spring Boot
@@ -11,26 +11,28 @@ Software Engineering student focused on backend development, software architectu
 * Git
 * GitHub
 
-## Currently Learning
+## Atualmente Estudando
 
-* Software Architecture
+* Arquitetura de Software
 * Docker
-* REST APIs
-* Automated Testing
+* APIs REST
+* Testes Automatizados
 
-## 🎯 Career Goals
-- Backend Development
-- Software Architecture
-- Cloud Computing
+## Objetivos Profissionais
+
+- Desenvolvimento Backend
+- Arquitetura de Software
+- Computação em Nuvem
 - DevOps
 
-## 💡 Interests
-- Software Engineering
-- System Design
-- Web Development
-- Open Source Projects
-  
-## Contact
+## Áreas de Interesse
+
+- Engenharia de Software
+- Design de Sistemas
+- Desenvolvimento Web
+- Projetos de Código Aberto (Open Source)
+
+## Contato
 
 * LinkedIn: www.linkedin.com/in/bruno-queiroz-fix
 * Email: bruno2004bno@gmail.com
