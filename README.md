@@ -8,6 +8,7 @@ Estudante de Engenharia de Software com foco em desenvolvimento backend, arquite
 * Spring Boot
 * Python
 * SQL
+* AWS
 * Git
 * GitHub
 * Typescript
